@@ -1,4 +1,4 @@
-## Oi eu me chamo João Victor 👋
+## Oi! Eu me chamo João Victor 👋
 Entre em contato:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-felix-perfeito-da-costa-57969a2b4/)
