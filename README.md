@@ -7,7 +7,7 @@ Entre em contato:
 <Br>
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JoaoVictorFelixP&theme=dark)](https://github.com/stats-organization/github-stats-extended)
-<img src="batanimation.gif" width="250" align="right" style="margin-left: 20px;width:160px;height:165px "/>
+<img src="batanimation.gif" width="250" align="right" style="margin-left: 20px;width:120px;height:125px "/>
 <h2> </h2>
 Tecnologias: 
 
